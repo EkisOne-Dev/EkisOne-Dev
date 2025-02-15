@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on learning to be a Web Developer 💻.
 - 🌱 I’m currently learning basic HTML, CSS and Javascript.
 - 📫 How to reach me: By Email: ekisonedev@gmail.com
-- 😄 Pronouns: He/him
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
